@@ -1,6 +1,5 @@
-# Nix
-.direnv
-result
+# PDF
+*.pdf
 
 # TeX
 *.aux
@@ -19,8 +18,8 @@ result
 *.ind
 *.toc
 *.bbl
+*.out
 
-# misc
-temp
-
-*.pdf
+# Nix
+.direnv
+result
